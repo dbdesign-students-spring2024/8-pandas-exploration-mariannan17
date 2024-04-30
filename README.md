@@ -1,7 +1,7 @@
 # pandas exploration
 
 # Note:
-I was not able to push these changes to GitHub directly due to the fact that my file sizes were too big. I was able to get a link to my [Jupyter Notebook:](file:///Users/mariannanibu/Downloads/analysis.html). 
+I was not able to push these changes to GitHub directly due to the fact that my file sizes were too big. I was able to get a link to my Jupyter Notebook: [here](file:///Users/mariannanibu/Downloads/analysis.html). 
 
 In this assignment you will select a data set and do some munging, analysis, and visualization of it using `pandas`, Jupyter Notebooks, and associated Python-centric data science tools.
 
